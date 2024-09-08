@@ -1,0 +1,40 @@
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\bin\Debug\ZKI_5.exe.config
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\bin\Debug\ZKI_5.exe
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\bin\Debug\ZKI_5.pdb
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csprojAssemblyReference.cache
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\obj\Debug\ZKI_5.Form1.resources
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\obj\Debug\ZKI_5.Properties.Resources.resources
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.GenerateResource.cache
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.CoreCompileInputs.cache
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\obj\Debug\ZKI_5.exe
+D:\1КБИП\3 курс\ЗКИ\ZKI_5\ZKI_5\obj\Debug\ZKI_5.pdb
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csprojAssemblyReference.cache
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.exe
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.pdb
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.Properties.Resources.resources
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.GenerateResource.cache
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\bin\Debug\ZKI_5.exe.config
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\bin\Debug\ZKI_5.exe
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\bin\Debug\ZKI_5.pdb
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.Form1.resources
+D:\1КБИП\3 курс\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.CoreCompileInputs.cache
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.AssemblyReference.cache
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.exe
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.pdb
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.Properties.Resources.resources
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.GenerateResource.cache
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.CoreCompileInputs.cache
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\bin\Debug\ZKI_5.exe.config
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\bin\Debug\ZKI_5.exe
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\bin\Debug\ZKI_5.pdb
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\СВАЛКА\ЗКИ\ЛР5\ZKI_5\ZKI_5\obj\Debug\ZKI_5.Form1.resources
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\bin\Debug\ZKI_5.exe.config
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\bin\Debug\ZKI_5.exe
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\bin\Debug\ZKI_5.pdb
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.AssemblyReference.cache
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\obj\Debug\ZKI_5.Form1.resources
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\obj\Debug\ZKI_5.Properties.Resources.resources
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.GenerateResource.cache
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\obj\Debug\ZKI_5.csproj.CoreCompileInputs.cache
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\obj\Debug\ZKI_5.exe
+D:\ВСЕ_С_ДИСКА_D_ПЕРЕД_УСТ_УБУНТУ\1КБИП\3 курс\11ЗКИ\ЛР5 шифрование виденером\ZKI_5\ZKI_5\obj\Debug\ZKI_5.pdb

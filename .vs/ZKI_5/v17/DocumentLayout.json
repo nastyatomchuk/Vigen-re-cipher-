@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6637574C-3778-42F5-A9B4-543509818DA4}|ZKI_5\\ZKI_5.csproj|d:\\\u0432\u0441\u0435_\u0441_\u0434\u0438\u0441\u043A\u0430_d_\u043F\u0435\u0440\u0435\u0434_\u0443\u0441\u0442_\u0443\u0431\u0443\u043D\u0442\u0443\\1\u043A\u0431\u0438\u043F\\3 \u043A\u0443\u0440\u0441\\11\u0437\u043A\u0438\\\u043B\u04405 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\zki_5\\zki_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6637574C-3778-42F5-A9B4-543509818DA4}|ZKI_5\\ZKI_5.csproj|solutionrelative:zki_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6637574C-3778-42F5-A9B4-543509818DA4}|ZKI_5\\ZKI_5.csproj|D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\zki_5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6637574C-3778-42F5-A9B4-543509818DA4}|ZKI_5\\ZKI_5.csproj|solutionrelative:zki_5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6637574C-3778-42F5-A9B4-543509818DA4}|ZKI_5\\ZKI_5.csproj|D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\zki_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6637574C-3778-42F5-A9B4-543509818DA4}|ZKI_5\\ZKI_5.csproj|solutionrelative:zki_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6637574C-3778-42F5-A9B4-543509818DA4}|ZKI_5\\ZKI_5.csproj|D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\zki_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6637574C-3778-42F5-A9B4-543509818DA4}|ZKI_5\\ZKI_5.csproj|solutionrelative:zki_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\ZKI_5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ZKI_5\\Form1.Designer.cs",
+              "ToolTip": "D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\ZKI_5\\Form1.Designer.cs",
+              "RelativeToolTip": "ZKI_5\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-08T12:38:53.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\ZKI_5\\Form1.cs",
+              "RelativeDocumentMoniker": "ZKI_5\\Form1.cs",
+              "ToolTip": "D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\ZKI_5\\Form1.cs [Design]",
+              "RelativeToolTip": "ZKI_5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:38:53.983Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\ZKI_5\\Form1.cs",
+              "RelativeDocumentMoniker": "ZKI_5\\Form1.cs",
+              "ToolTip": "D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\ZKI_5\\Form1.cs",
+              "RelativeToolTip": "ZKI_5\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:38:54.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\ZKI_5\\Program.cs",
+              "RelativeDocumentMoniker": "ZKI_5\\Program.cs",
+              "ToolTip": "D:\\\u0412\u0421\u0415_\u0421_\u0414\u0418\u0421\u041A\u0410_D_\u041F\u0415\u0420\u0415\u0414_\u0423\u0421\u0422_\u0423\u0411\u0423\u041D\u0422\u0423\\1\u041A\u0411\u0418\u041F\\3 \u043A\u0443\u0440\u0441\\11\u0417\u041A\u0418\\\u041B\u04205 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043D\u0435\u0440\u043E\u043C\\ZKI_5\\ZKI_5\\Program.cs",
+              "RelativeToolTip": "ZKI_5\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:38:54.691Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1579,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1368,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
